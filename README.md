@@ -1,2 +1,2 @@
-# AIBIOCAD
+# AIBIO
 Classification tools for optimization model
